@@ -6,3 +6,4 @@ Conflito 2
 Conflito 1
 
 Adicionando linha de conflito entre branches
+Testing the new branch
